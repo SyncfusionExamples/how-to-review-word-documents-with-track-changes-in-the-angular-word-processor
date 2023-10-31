@@ -1,0 +1,9 @@
+<div style="margin: 10px;">
+  <button ejs-button (click)="onBtnClk()">Reject</button>
+  <button ejs-button (click)="nextRevision()">Next</button>
+  <button ejs-button (click)="previousRevision()">Previous</button>
+  <button ejs-button (click)="protection()">Revision Only</button>
+  <button ejs-button (click)="removeprotection()">Stop Protection</button>
+  <ejs-documenteditorcontainer #documentEditor height="590" [showPropertiesPane]=false
+  serviceUrl="https://ej2services.syncfusion.com/production/web-services/api/documenteditor/"></ejs-documenteditorcontainer>
+</div>
