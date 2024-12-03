@@ -1,11 +1,11 @@
 # How to Review Word Documents with Track Changes in the Angular Word Processor
 
-A quick-start Angular project that shows how to review Word documents with tracked changes in the Syncfusion Angular Word Processor component. This project contains code to enable the “track changes” feature, accept or reject changes, filter changes by user, and use revision-only protection.
+A quick-start Angular project that shows how to review Word documents with tracked changes in the Syncfusion&reg; Angular Word Processor component. This project contains code to enable the “track changes” feature, accept or reject changes, filter changes by user, and use revision-only protection.
 
-Refer to the following tracked changes documentation for the Syncfusion Angular Word Processor component: 
+Refer to the following tracked changes documentation for the Syncfusion&reg; Angular Word Processor component: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/track-changes 
 
-Check out this online example of tracking changes in the Syncfusion Angular Word Processor component:
+Check out this online example of tracking changes in the Syncfusion&reg; Angular Word Processor component:
 https://ej2.syncfusion.com/angular/demos/#/bootstrap5/document-editor/track-changes  
 
 Watch the following video to get started with the Angular Word Processor component:
